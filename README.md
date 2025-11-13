@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SUNIL-SURENDAR-K
-- 👀 I’m interested in Embedded system and C
-- 🌱 I’m currently learning embedded design
-- 💞️ I’m looking to collaborate on embedded circuit related projects
+- 👀 I’m interested in Java Full Stack Developer
+- 🌱 I’m currently learning full stack using java at NIIT institution
+- 💞️ I’m looking to collaborate on front end related projects
 - 📫 How to reach me surendar47k@gmail.com
 - 😄 Pronouns: Sunil
 - ⚡ Fun fact: ...
